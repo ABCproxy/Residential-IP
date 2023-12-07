@@ -56,7 +56,7 @@ ABCProxy's residential IP proxy service can be widely used in a variety of field
 
 ## License
 
-All code is released under [MIT License]
+All code is released under [MIT License](https://github.com/ABCproxy/Residential-IP/blob/main/MIT%20License)
 
 ## Contacts
 Email - support@abcproxy.com
