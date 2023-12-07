@@ -47,8 +47,8 @@ ABCProxy's [residential IP proxy](https://www.abcproxy.com?utm-source=Github&utm
 
 ## Getting started
 <br>[<img src="https://i.ibb.co/LhGS4jn/image.png">](https://www.abcproxy.com?utm-source=Github&utm-keyword=?01)
-<br> 1. [Register your ABCproxy account](https://https://www.abcproxy.com/login.html?utm-source=Github&utm-keyword=?01)
-<br> 2. [Pick a plan](https://https://www.abcproxy.com/pricing.html?utm-source=Github&utm-keyword=?01)
+<br> 1. [Register your ABCproxy account](https://www.abcproxy.com/login.html?utm-source=Github&utm-keyword=?01)
+<br> 2. [Pick a plan](https://www.abcproxy.com/pricing.html?utm-source=Github&utm-keyword=?01)
 <br> 3. Make a purchase
 <br> 4. 200M+ residential IPs in your pocket
 <br><br>Accepted payment methods:
