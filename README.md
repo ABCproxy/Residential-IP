@@ -24,7 +24,7 @@ Access 200M+ real residential IPs from 190+ countries. High availability, city-l
 ## What is ABCproxy
 [ABCproxy](https://www.abcproxy.com?utm-source=Github&utm-keyword=?01) is a leading global residential IP proxy provider with over 200 million IP addresses covering more than 190 countries. It offers diverse product formats, including a dedicated proxy client, API whitelisting mode, and billing confidentiality mode, to meet a variety of business needs.
 
-ABCProxy's residential IP proxy service can be widely used in a variety of fields such as social media automation, multi-account batch management, public data collection, breaking through geographical restrictions, hiding online identities, and improving network security. Whether you are an individual user, an enterprise customer or a government organization, you can benefit from ABCProxy's services.
+ABCProxy's [residential IP proxy](https://www.abcproxy.com?utm-source=Github&utm-keyword=?01) service can be widely used in a variety of fields such as social media automation, multi-account batch management, public data collection, breaking through geographical restrictions, hiding online identities, and improving network security. Whether you are an individual user, an enterprise customer or a government organization, you can benefit from ABCProxy's services.
 
 ## What are the features
 
@@ -47,8 +47,8 @@ ABCProxy's residential IP proxy service can be widely used in a variety of field
 
 ## Getting started
 <br>[<img src="https://i.ibb.co/LhGS4jn/image.png">](https://www.abcproxy.com?utm-source=Github&utm-keyword=?01)
-<br> 1. [Register your ABCproxy account](https://www.abcproxy.com?utm-source=Github&utm-keyword=?01)
-<br> 2. [Pick a plan](https://www.abcproxy.com?utm-source=Github&utm-keyword=?01)
+<br> 1. [Register your ABCproxy account](https://https://www.abcproxy.com/login.html?utm-source=Github&utm-keyword=?01)
+<br> 2. [Pick a plan](https://https://www.abcproxy.com/pricing.html?utm-source=Github&utm-keyword=?01)
 <br> 3. Make a purchase
 <br> 4. 200M+ residential IPs in your pocket
 <br><br>Accepted payment methods:
