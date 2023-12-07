@@ -3,7 +3,7 @@
   </a>
 </p>
 
-[<img src="https://www.abcproxy.com/img/tw_share_img.png">](https://www.abcproxy.com?utm-source=Github&utm-keyword=?01)
+[<img src="https://i.ibb.co/61zmJxY/8.png">](https://www.abcproxy.com?utm-source=Github&utm-keyword=?01)
 
 <h2 align="center">
   ABCproxy | World-Leading Provider of Residential IP Proxies
@@ -46,13 +46,13 @@ ABCProxy's residential IP proxy service can be widely used in a variety of field
 6. **Quality Customer Service**: ABCProxy's team consists of a group of professional technicians and customer service representatives who have the experience and skills to provide users with the highest quality service.
 
 ## Getting started
-<br>[<img src="https://i.imgur.com/V2NhawG.png">](https://www.abcproxy.com?utm-source=Github&utm-keyword=?01)
+<br>[<img src="https://i.ibb.co/LhGS4jn/image.png">](https://www.abcproxy.com?utm-source=Github&utm-keyword=?01)
 <br> 1. [Register your ABCproxy account](https://www.abcproxy.com?utm-source=Github&utm-keyword=?01)
 <br> 2. [Pick a plan](https://www.abcproxy.com?utm-source=Github&utm-keyword=?01)
 <br> 3. Make a purchase
 <br> 4. 200M+ residential IPs in your pocket
 <br><br>Accepted payment methods:
-<br>[<img src="https://i.ibb.co/cY4Xqm0/github-payments.png" alt="ABCproxy accepted payment methods">](https://www.abcproxy.com?utm-source=Github&utm-keyword=?01)
+<br>[<img src="https://i.ibb.co/0XMDDPW/ABC.png" alt="ABCproxy accepted payment methods">](https://www.abcproxy.com?utm-source=Github&utm-keyword=?01)
 
 ## License
 
